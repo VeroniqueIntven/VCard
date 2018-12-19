@@ -50,6 +50,11 @@ html {
 	font-size: 10px;
 }
 
+.opacity {
+	opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
 @media only screen and (max-width:1024px) {
 	html {
 		font-size: 9.411764705882353px;
