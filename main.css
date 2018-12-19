@@ -1301,8 +1301,9 @@ header .logo a {
  *
  * ------------------------------------------------------------------- 
  */
+
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(https://t1.pixers.pics/img-4dc79b4f/canvas-stijlen-bestemmingen-thema-s-piet-mondriaan-compositie-ii-in-rood-blauw-en-geel.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
