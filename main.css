@@ -1303,7 +1303,7 @@ header .logo a {
  */
 
 #intro {
-	background: #151515 url(https://t1.pixers.pics/img-4dc79b4f/canvas-stijlen-bestemmingen-thema-s-piet-mondriaan-compositie-ii-in-rood-blauw-en-geel.jpg) no-repeat center bottom;
+	background: #151515 url(https://t1.pixers.pics/img-4dc79b4f/posters-stijlen-bestemmingen-thema-s-virtual-categorie-piet-mondriaan-compositie-ii-in-rood-blauw-en-geel.jpg?H4sIAAAAAAAAAzWT3W6rOhCFX6eV2o1toJTeHJUmTkKDCQZs8M0RfwkEYziBkpCnP-nFHmlpNFfzaS0t7UeN2bHSjo2cqsv4canG5l49QRuBFwjewfPHsb902fR0Hk7PH5e-756yLQXFqp_36DanCI_Zxr6XX_aQ82IiiEmv86Bo7GuuEyAS975PnEEkwZRz-0ds3SHl-GfPyZwnzlwgCTIeTxlvHzKmorNn8QWbfINhuUCZN1AJzsa9cn7E3d6RLXGDGDt_RZgI2H2HaAydKqrXGZIOw0MW8KkvlXf3I6qihITeyulCIC-FpK2fCBopjApZdzmmSRXv9GhjgnC9RtWKXblyeoKpUW3KhCR1QxHL8u0QVRzr4foESYzdop1Spj6NXEpA4xv2trVRxvU-Vu1UxIQzRGuRPH5ARhgbrp4uZ3_j9oxTg63qMVxjI0jEf6yBkkFv8cB0Du9OGLdU0I3thLqzefhkBHpxFVt88xIxk3ZoMyS-eEeTXNUkVcKrcCmZdJeKC-SpUqWtiXjLYKFSM2L2OrinZhyTppDpvcD4lkv7LYSnh9d0jnRGMh3Hpe66rLW7CO6uRNIhXkucAOr53NwGLe3Fw4fw7Lg5C5ZIUc65bAsw6bytb2WEw0zGIEcnPVLEEIwIEe8ggeJSbNxDHAVXf4t7wie_6nZQ6GTlM5kW3aTob4YRsF_egfViopd6moYPTZN9kcm6Hyet6U6vFrAqUCH0OLJT9c_WGHeff-eqf_PrZbVzPjHwAYj3y_lcZbcuctMoKMM2XRzyPR3m0Tpc2VtcgG8-ZYyYCxqUL2sXlIdwIfB1L3gZ5EBkfWFbndvMdeTvd6vFI4fp9Cr84O3o7y2YGEmym67W0TqfolDfO3Tpk_GmflGetV_68YE_6n-G5vao0mMVo1Z0o4YAtDRgaqYNjbd3VBlGZtn_jsvQZFI1mYHMG3ozXx8N-3MeqtP_E0u33ZMDAAA=) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1397,7 +1397,6 @@ header .logo a {
 }
 .intro-content .button::after {
 	display: inline-block;
-	content: "\f107";
 	font-family: fontAwesome;
 	font-size: 1.6rem;
 	line-height: inherit;
