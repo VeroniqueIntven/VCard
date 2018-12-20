@@ -98,7 +98,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #FF0077;
+	color: #000000;
 	outline: 0;
 }
 
@@ -309,7 +309,7 @@ ul.disc li::before {
 	width: 8px;
 	height: 8px;
 	border-radius: 50%;
-	background: #ff0000;
+	background: #000000;
 	position: absolute;
 	left: -17px;
 	top: 11px;
@@ -317,7 +317,7 @@ ul.disc li::before {
 }
 dt {
 	margin: 0;
-	color: #ff0000;
+	color: #000000;
 }
 dd {
 	margin: 0 0 0 2rem;
@@ -437,7 +437,7 @@ img.pull-left {
 	display: none;
 }
 .pace .pace-progress {
-	background: #ff0000;
+	background: #000000;
 	position: fixed;
 	z-index: 900;
 	top: 0;
@@ -480,7 +480,7 @@ img.pull-left {
 	border-top: 11px solid rgba(255, 255, 255, 0.1);
 	border-right: 11px solid rgba(255, 255, 255, 0.1);
 	border-bottom: 11px solid rgba(255, 255, 255, 0.1);
-	border-left: 11px solid #ff0000;
+	border-left: 11px solid #000000;
 	-webkit-animation: load 1.1s infinite linear;
 	animation: load 1.1s infinite linear;
 	display: block;
@@ -617,7 +617,9 @@ input[type="checkbox"], input[type="radio"] {
 }
 label > .label-text {
 	display: inline-block;
-	margin-left: 1rem;
+	margin-left: 1rem;-
+ */
+::-webkit-input-placeholder {
 	font-family: "poppins-regular", sans-serif;
 	line-height: inherit;
 }
@@ -629,9 +631,7 @@ label > input[type="checkbox"], label > input[type="radio"] {
 
 /**
  * Style Placeholder Text  
- * -
- */
-::-webkit-input-placeholder {
+ * 
 	color: #a1a1a1;
 }
 :-moz-placeholder {
@@ -744,8 +744,8 @@ button.stroke.large, .button.stroke.large {
 	line-height: 5.4rem !important;
 }
 button.stroke:hover, .button.stroke:hover {
-	border: 3px solid #FF0077;
-	color: #FF0077;
+	border: 3px solid #000000;
+	color: #000000;
 }
 button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
@@ -933,7 +933,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #252525;
 }
 .stats-tabs li a:hover {
-	color: #ff0000;
+	color: #000000;
 }
 .stats-tabs li a em {
 	display: block;
@@ -1049,7 +1049,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #ff0000;
+	color: #000000;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -1260,12 +1260,12 @@ header .logo a {
 	border: none;
 }
 .main-navigation li a:hover {
-	color: #ff0000;
+	color: #000000;
 	padding-left: 1rem;
 }
 .main-navigation li.current > a {
 	background: none;
-	color: #ff0000;
+	color: #000000;
 }
 
 /**
@@ -1346,7 +1346,7 @@ header .logo a {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	color: #ff0000;
+	color: #000000;
 	font-family: "poppins-bold", sans-serif;
 	font-size: 2.3rem;
 	line-height: 1.565;
