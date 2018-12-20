@@ -1424,7 +1424,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color: #ff0000;
+	color: #313131;
 }
 
 /**
@@ -1964,7 +1964,7 @@ header .logo a {
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
 }
 .popup-modal .link-box a:hover {
-	background: #ff0000;
+	background: #313131;
 	border: none;
 }
 @media only screen and (max-width:600px) {
@@ -2130,7 +2130,7 @@ header .logo a {
 	color: white;
 }
 #services .section-intro h5 {
-	color: #ff0000;
+	color: #313131;
 }
 #services .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -2152,7 +2152,7 @@ header .logo a {
 }
 .services-list .icon i {
 	font-size: 5.4rem;
-	color: #ff0000;
+	color: #313131;
 }
 .services-list h3 {
 	color: #FFFFFF;
@@ -2180,7 +2180,7 @@ header .logo a {
 	background: #FFFFFF;
 }
 .owl-theme .owl-controls .owl-page.active span {
-	background: #ff0000;
+	background: #313131;
 }
 
 
@@ -2266,7 +2266,7 @@ header .logo a {
 	color: white;
 }
 #contact .section-intro h5 {
-	color: #ff0000;
+	color: #313131;
 }
 #contact .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -2319,7 +2319,7 @@ header .logo a {
 	padding: 0 2rem;
 	margin: 0;
 	color: #FFFFFF;
-	background: #ff0000;
+	background: #313131;
 }
 #contact form .form-field label::after {
 	position: absolute;
@@ -2374,7 +2374,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-	background: #ff0000;
+	background: #313131;
 }
 #message-warning, #message-success {
 	display: none;
@@ -2388,7 +2388,7 @@ header .logo a {
 	color: #fa0003;
 }
 #message-success {
-	color: #ff0000;
+	color: #313131;
 }
 #message-warning i, #message-success i {
 	margin-right: 10px;
@@ -2433,7 +2433,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .contact-info h5 {
-	color: #ff0000;
+	color: #313131;
 }
 
 /**
@@ -2507,7 +2507,7 @@ footer a, footer a:visited {
 	color: #FFFFFF;
 }
 footer a:hover, footer a:focus {
-	color: #ff0000;
+	color: #313131;
 }
 footer .row {
 	max-width: 900px;
@@ -2586,7 +2586,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #ff0000;
+	background: #313131;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
