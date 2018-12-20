@@ -603,7 +603,7 @@ input[type="password"]:focus,
 textarea:focus,
 select:focus {
 	color: #ff0000;
-	border-bottom: 1px solid #FF0077;
+	border-bottom: 1px solid #313131;
 }
 label, legend {
 	font-family: "poppins-bold", sans-serif;
@@ -1146,7 +1146,7 @@ header .logo a {
 }
 .menu-toggle span {
 	display: block;
-	background-color: #ff0000;
+	background-color: #313131;
 	width: 24px;
 	height: 3px;
 	margin-top: -1.5px;
@@ -1204,7 +1204,7 @@ header .logo a {
 	background-color: rgba(255, 0, 119, 0);
 }
 .menu-toggle.is-clicked span::before, .menu-toggle.is-clicked span::after {
-	background-color: #ff0077;
+	background-color: #313131;
 	-moz-transition-delay: 0s, 0.2s;
 	-o-transition-delay: 0s, 0.2s;
 	-webkit-transition-delay: 0s, 0.2s;
@@ -1393,7 +1393,7 @@ header .logo a {
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #ff0000;
+	border-color: #313131;
 }
 .intro-content .button::after {
 	display: inline-block;
